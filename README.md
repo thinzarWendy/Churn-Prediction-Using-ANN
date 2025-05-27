@@ -10,7 +10,7 @@ To get a local copy of this project on your computer, follow these steps:
    cd ~/Documents/projects
 3. **Clone the repository using the following command:**
     ```bash
-   git clone https://github.com/your-username/Churn-Prediction-Using-ANN.git
+   git clone https://github.com/thinzarWendy/Churn-Prediction-Using-ANN.git
 5. **Go into the project folder:**
    ```bash
    cd Churn-Prediction-Using-ANN
